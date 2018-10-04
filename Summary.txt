@@ -1,0 +1,3 @@
+1. The code without HOBs package runs much faster than the one with.
+2. The output file of HOBs package does not include the simulation time (Time series cannot be plotted)
+3. 1 day shift of observation and simulation in HOBs package ???
